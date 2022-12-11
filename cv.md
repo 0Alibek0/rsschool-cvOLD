@@ -20,3 +20,6 @@ The goal at the moment is to finish learning to the end of all stages in Javascr
     function multiply(a, b){
     return (a * b);
     }
+
+###Projects:
+    https://0Alibek0.github.io/rsschool-cv/cv
